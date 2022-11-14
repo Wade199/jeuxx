@@ -1,0 +1,20 @@
+img {
+    width: 80px;
+}
+
+td {
+    width: 80px;
+    height: 80px;
+}
+
+.dos{
+    font-size: 3rem;
+}
+
+.image:hover {
+    cursor: pointer;
+}
+
+#resultat{
+    font-size: 10rem;
+}
